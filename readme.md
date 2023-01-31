@@ -1,5 +1,11 @@
 # Review Project
 
+Credit: Trean Chhanon
+
+Gmail: chhanontrean@gmail.com
+
+Tell: +855 97 8982 802
+
 Files System Management Laravel 9 with MySQL 
 
 ## Tutorial
